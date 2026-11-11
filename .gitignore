@@ -1,0 +1,7 @@
+# Raw material (original WhatsApp photos/videos) — optimized copies live in assets/img
+tmp/
+_site/
+node_modules/
+.DS_Store
+Thumbs.db
+.claude/

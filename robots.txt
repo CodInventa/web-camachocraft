@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codinventa.github.io/web-camachocraft/sitemap.xml
